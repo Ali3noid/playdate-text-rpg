@@ -1,9 +1,0 @@
-name=Template
-author=You, Inc.
-description=text-rpg.
-bundleID=com.yourcompany.TemplateGame
-version=1.0
-buildNumber=100
-imagePath=SystemAssets
-pdxversion=20400
-buildtime=802720769

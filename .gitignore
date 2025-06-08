@@ -1,0 +1,47 @@
+# Playdate SDK build artifacts
+*.pdx/
+Template.pdx/
+*.pdx
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Nova editor files
+.nova/
+
+# Temporary and backup files
+*~
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*#
+
+# Log files
+*.log
+
+# Build directories
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Empty or placeholder files
+**/untitled file
+**/*untitled file*
+
+# Duplicate files (keep only Source/ versions)
+Template.pdx/
+
+# Editor temp files
+*.orig
